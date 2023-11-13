@@ -1,0 +1,23 @@
+{
+    "userOne": {
+        "id": 100,
+        "username": "oleg66",
+        "firstName": "Oleg",
+        "lastName": "Petrov",
+        "email": "oleg66@mail.ru",
+        "password": "pass",
+        "phone": "+79991234567",
+        "userStatus": 1
+    },
+  
+    "userUpdate": {
+        "id": 101,
+        "username": "oleg1966",
+        "firstName": "Oleg",
+        "lastName": "Ivanov",
+        "email": "oleg1966@mail.ru",
+        "password": "qwerty",
+        "phone": "+79997654321",
+        "userStatus": 1
+    }
+  }
